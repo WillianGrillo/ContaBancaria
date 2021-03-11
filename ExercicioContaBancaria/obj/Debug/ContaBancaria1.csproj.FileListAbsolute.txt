@@ -1,0 +1,7 @@
+C:\Users\willi\Desktop\ExercicioContaBancaria\bin\Debug\ContaBancaria1.exe.config
+C:\Users\willi\Desktop\ExercicioContaBancaria\bin\Debug\ContaBancaria1.exe
+C:\Users\willi\Desktop\ExercicioContaBancaria\bin\Debug\ContaBancaria1.pdb
+C:\Users\willi\Desktop\ExercicioContaBancaria\obj\Debug\ContaBancaria1.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\ExercicioContaBancaria\obj\Debug\ContaBancaria1.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\ExercicioContaBancaria\obj\Debug\ContaBancaria1.exe
+C:\Users\willi\Desktop\ExercicioContaBancaria\obj\Debug\ContaBancaria1.pdb
